@@ -24,7 +24,7 @@
   <description>Calliope mini 3: Equipped with new processors, optimizations and additional connection options, it allows the quick connection of motors, additional sensors and actuators.</description>
   <views>
     <iconView>
-      <layers image="breadboard/calliope-mini-3_2_1_breadboard.svg">
+      <layers image="icon/calliope-mini-3_2_1_breadboard.svg">
         <layer layerId="icon"/>
       </layers>
     </iconView>
