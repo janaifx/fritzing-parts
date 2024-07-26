@@ -3,7 +3,7 @@
     <version>4</version>
     <author>Kjell Morgenstern</author>
     <title>Sony's Spresense LTE Extension Board</title>
-    <label></label>
+    <label>SP</label>
     <date>2021-05-14</date>    
     <properties>
     <property name="family">Spresense</property>
